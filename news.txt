@@ -1,0 +1,8 @@
+{
+  "update": true,
+  "url": "http://www.yourvideofile.org/upgrade_7.30.html",
+  "buttonText": "*** URGENT : Fixed Failing Downloads ***",
+  "ChromeSpecific":false,
+  "ChromeURL":"http://www.yourvideofile.org/upgrade_7.30.html",
+  "ChromeButton":"*** Urgent Upgrade For Chrome ***"
+}
